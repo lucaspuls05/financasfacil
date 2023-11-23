@@ -1,0 +1,130 @@
+body {
+
+    margin: 0;
+
+    padding: 0;
+
+}
+
+
+header {
+ 
+    display: flex;
+flex-direction: row;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+
+    background-color: #00082b;
+   border-bottom-right-radius: 64px;
+}
+
+header p {
+
+    color: #ffffff;
+
+    display: inline-block;
+}
+
+ 
+.titulo {
+
+    color: #ffffff;
+
+    display: inline-block;
+
+    margin-left: 1%;
+     
+    display: flex;
+    
+    align-items: center;
+
+    justify-content: center;
+   
+
+}
+
+ 
+
+.logo {
+
+    height: 60%;
+    margin-left: 5%;
+
+    width: auto;
+
+}
+
+ 
+
+ 
+
+ 
+
+.navega {
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    height: 100%;
+
+    width: 60%;
+
+    background-color: #112996;
+
+    margin-left: 4%;
+    border-radius: 64px;
+
+}
+
+ 
+
+.navega a {
+
+    margin-right: 10%;
+
+    color: #ffffff;
+
+    text-decoration: none;
+
+    font-size: x-large;
+
+    font-weight: 1000;
+
+}
+
+ 
+
+ 
+
+ 
+
+.op-menu {
+
+    color: #ffffff;
+
+    display: inline-block;
+
+}
+
+.logs { 
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    text-decoration: none; 
+    background-color: rgb(255, 255, 255); 
+    color: #ff0000; 
+    height: 50%;
+    width: 20%;
+    margin-top: 2%;
+    margin-right: 2%;
+}
+.logs:hover { 
+    background-color: #717171;
+}
+
+

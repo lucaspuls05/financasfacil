@@ -1,0 +1,25 @@
+.geral {
+
+    height: 80vh;
+
+    width: auto;
+
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+
+    align-items: center;
+    flex-direction: column;
+
+}
+
+
+.geral a { 
+    color: rgb(0, 0, 0); 
+    text-decoration: none; 
+    font-size: xx-large;
+    margin-bottom: 50px;
+} 
+.geral a:hover { 
+    color: red;
+}
